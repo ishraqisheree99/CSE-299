@@ -19,5 +19,5 @@ This project presents a low-cost, portable IoT-based indoor air quality monitori
 
 ### Figure 3: Final IoT Device Prototype
 <p align="center">
-  <img src="Img/Device.png" alt="Device" width="400"/>
+  <img src="Img/device.png" alt="Device" width="400"/>
 </p>
