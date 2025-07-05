@@ -1,23 +1,23 @@
 # CSE-299
 This project presents a low-cost, portable IoT-based indoor air quality monitoring system designed to measure environmental parameters such as temperature, humidity, and harmful gases (NH₃, NOₓ, CO₂, benzene, alcohol, and smoke) in real-time. The system uses a NodeMCU ESP8266 microcontroller integrated with MQ-135 and DHT11 sensors and communicates with a custom-built Android app via Firebase Realtime Database for live monitoring. Built using MIT App Inventor, the app displays sensor data to help users ensure a healthy indoor environment. The total system cost is under BDT 1500, making it highly affordable compared to commercial alternatives.
 
-## 📸 System Images
+## 📷 Project Images
 
-### Final Prototype of the IoT Device
+### Figure 1: System Architecture Diagram
 <p align="center">
-  <img src="https://github.com/ishraqzaman/iot-air-monitor/blob/main/images/device.jpg?raw=true" alt="Final Prototype" width="500"/>
+  <img src="img/Diagram.png" alt="System Diagram" width="600"/>
 </p>
 
 ---
 
-### Air Quality and Temperature-Humidity Reading 
+### Figure 2: Android App Interface Preview
 <p align="center">
-  <img src="https://github.com/ishraqzaman/iot-air-monitor/blob/main/images/room1_reading.jpg?raw=true" alt="Room 1 Reading" width="500"/>
+  <img src="img/App.png" alt="App Preview" width="300"/>
 </p>
 
 ---
 
-### Mobile App Interface Showing Real-Time Data
+### Figure 3: Final IoT Device Prototype
 <p align="center">
-  <img src="https://github.com/ishraqzaman/iot-air-monitor/blob/main/images/app_interface.jpg?raw=true" alt="App Interface" width="300"/>
+  <img src="img/Device.png" alt="Device" width="400"/>
 </p>
