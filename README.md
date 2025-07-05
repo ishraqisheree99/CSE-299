@@ -5,19 +5,19 @@ This project presents a low-cost, portable IoT-based indoor air quality monitori
 
 ### Figure 1: System Architecture Diagram
 <p align="center">
-  <img src="img/Diagram.png" alt="System Diagram" width="600"/>
+  <img src="Img/Diagram.png" alt="System Diagram" width="600"/>
 </p>
 
 ---
 
 ### Figure 2: Android App Interface Preview
 <p align="center">
-  <img src="img/App.png" alt="App Preview" width="300"/>
+  <img src="Img/App.png" alt="App Preview" width="300"/>
 </p>
 
 ---
 
 ### Figure 3: Final IoT Device Prototype
 <p align="center">
-  <img src="img/Device.png" alt="Device" width="400"/>
+  <img src="Img/Device.png" alt="Device" width="400"/>
 </p>
